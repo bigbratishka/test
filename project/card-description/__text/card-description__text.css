@@ -1,0 +1,17 @@
+.card-description__text {
+    display: block;
+    height: 90px;
+    max-width: 545px;
+    color: #ffffff;
+    font-family: 'Gilroy-Regular';
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    text-align: center;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    margin-top: 59px;
+}

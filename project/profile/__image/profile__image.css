@@ -1,0 +1,6 @@
+.profile__image {
+    display: block;
+    padding: 13px;
+    border: 1px solid #841eb6;
+    border-radius: 50%;
+}

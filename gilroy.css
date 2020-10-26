@@ -1,0 +1,39 @@
+@font-face {
+	font-family: 'Gilroy-Regular';
+	src: url('fonts/gilroy-regular.eot'); /* IE 9 Compatibility Mode */
+	src: url('fonts/gilroy-regular.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('fonts/gilroy-regular.woff2') format('woff2'), /* Super Modern Browsers */
+		url('fonts/gilroy-regular.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('fonts/gilroy-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('fonts/gilroy-regular.svg#gilroy-regular') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'Gilroy-RegularItalic';
+	src: url('fonts/gilroy-regularitalic.eot'); /* IE 9 Compatibility Mode */
+	src: url('fonts/gilroy-regularitalic.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('fonts/gilroy-regularitalic.woff2') format('woff2'), /* Super Modern Browsers */
+		url('fonts/gilroy-regularitalic.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('fonts/gilroy-regularitalic.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('fonts/gilroy-regularitalic.svg#gilroy-regularitalic') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'Gilroy-SemiBold';
+	src: url('fonts/gilroy-semibold.eot'); /* IE 9 Compatibility Mode */
+	src: url('fonts/gilroy-semibold.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('fonts/gilroy-semibold.woff2') format('woff2'), /* Super Modern Browsers */
+		url('fonts/gilroy-semibold.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('fonts/gilroy-semibold.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('fonts/gilroy-semibold.svg#gilroy-semibold') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'Gilroy-SemiBoldItalic';
+	src: url('fonts/gilroy-semibolditalic.eot'); /* IE 9 Compatibility Mode */
+	src: url('fonts/gilroy-semibolditalic.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('fonts/gilroy-semibolditalic.woff2') format('woff2'), /* Super Modern Browsers */
+		url('fonts/gilroy-semibolditalic.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('fonts/gilroy-semibolditalic.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('fonts/gilroy-semibolditalic.svg#gilroy-semibolditalic') format('svg'); /* Chrome < 4, Legacy iOS */
+}

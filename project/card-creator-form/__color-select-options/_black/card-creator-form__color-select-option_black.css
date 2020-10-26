@@ -1,0 +1,7 @@
+.card-creator-form__color-select-option_black::before {
+    background-color: black;
+}
+.card-creator-form__color-select-option_black::after {
+    border-bottom: 4px solid white;
+    border-left: 4px solid white;
+}

@@ -1,0 +1,17 @@
+.card-creator__container {
+    height: calc(100% - 250px);
+    overflow: auto;
+    margin: 110px 20px 0 40px;
+}
+
+.card-creator__container::-webkit-scrollbar {
+    width: 5px;
+    border-radius: 3px;
+}
+.card-creator__container::-webkit-scrollbar-track {
+    background-color: #e6e6e6;
+}
+.card-creator__container::-webkit-scrollbar-thumb {
+    border-radius: 3px;
+    background-color: #841eb6;
+}

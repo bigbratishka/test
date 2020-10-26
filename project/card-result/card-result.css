@@ -1,0 +1,13 @@
+.card-result {
+    display: block;
+    width: 600px;
+    /* max-height: 795px; */
+    box-shadow: 0 0 125px rgba(132, 30, 182, 0.25);
+    border-radius: 100px;
+    background-color: #ffffff;
+    margin: 5vh auto;
+    position: relative;
+    background-image: url('_white/card-result__background-image_white.svg');
+    background-position: 20px 20px;
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,6 @@
+.socials__label_vk {
+    margin-top: 19px;
+}
+.socials__label_vk::before {
+    background-image: url('socials__label_vk.svg');
+}

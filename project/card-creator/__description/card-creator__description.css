@@ -1,0 +1,21 @@
+.card-creator__description {
+    width: 520px;
+    height: 80px;
+    resize: none;
+    color: black;
+    font-family: 'Gilroy-Regular';
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    text-align: left;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    padding: 19px 21px;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid #eaedf3;
+    margin-top: 21px;
+}

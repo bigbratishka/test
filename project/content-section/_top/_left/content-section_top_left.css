@@ -1,0 +1,7 @@
+.content-section_top_left {
+    max-width: 650px;
+    height: 550px;
+    flex: 1 0 auto;
+    margin-top: 20px;
+    margin-left: 35px;
+}

@@ -1,0 +1,7 @@
+.card-creator-form__color-select-option_purple::before {
+    background-color: #841eb6;
+}
+.card-creator-form__color-select-option_purple::after {
+    border-bottom: 4px solid white;
+    border-left: 4px solid white;
+}

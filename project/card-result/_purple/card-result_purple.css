@@ -1,0 +1,65 @@
+.card-result_purple {
+    background-position: 0 0;
+    
+    background:url('card-result_purple.svg') 0 70px no-repeat ,linear-gradient(-30deg, #44097c 0%, #a204bc 100%) 0 0 no-repeat;
+    
+}
+
+.card-result_purple .card-result__image {
+    border: 1px solid white;
+}
+
+.card-result_purple .card-result__username {
+    color: white;
+}
+
+.card-result_purple .card-result__description {
+    color: white;
+}
+
+.card-result_purple .card-result__heading {
+    color: white;
+}
+
+.card-result_purple .card-result__socials-link {
+    background-color: white;
+}
+
+.card-result_purple .card-result__button-save {
+    background-color: white;
+    color: black;
+}
+
+.card-result_purple .card-result__button-change {
+    color: white;
+    border: 1px solid white;
+}
+
+.card-result_purple .card-result__socials-link_tg {
+    background-image: url('../__socials-link/_tg/_active/socials__label_tg_active.svg');
+}
+
+.card-result_purple .card-result__socials-link_ig {
+    background-image: url('../__socials-link/_ig/_active/socials__label_ig_active.svg');
+}
+
+.card-result_purple .card-result__socials-link_vk {
+    background-image: url('../__socials-link/_vk/_active/socials__label_vk_active.svg');
+}
+
+.card-result_purple .card-result__socials-link_wa {
+    background-image: url('../__socials-link/_wa/_active/socials__label_wa_active.svg');
+}
+
+.card-result_purple .card-result__socials-link_vk.purple-active {
+    background-image: url('../__socials-link/_vk/socials__label_vk.svg');
+}
+.card-result_purple .card-result__socials-link_ig.purple-active {
+    background-image: url('../__socials-link/_ig/socials__label_ig.svg');
+}
+.card-result_purple .card-result__socials-link_tg.purple-active {
+    background-image: url('../__socials-link/_tg/socials__label_tg.svg');
+}
+.card-result_purple .card-result__socials-link_wa.purple-active {
+    background-image: url('../__socials-link/_wa/socials__label_wa.svg');
+}

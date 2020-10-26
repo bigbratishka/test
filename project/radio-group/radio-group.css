@@ -1,0 +1,8 @@
+.radio-group {
+    width: 110px;
+    display: flex;
+    justify-content: space-between;
+    margin: 24px auto 0 auto;
+    height: 30px;
+
+}

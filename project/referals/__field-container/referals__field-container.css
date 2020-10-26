@@ -1,0 +1,23 @@
+.referals__field-container {
+    display: flex;
+    justify-content: space-between;
+    width: 520px;
+    height: 50px;
+    border-radius: 5px;
+    border: 1px solid #eaedf3;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    margin-top: 20px;
+}
+
+.referals__field-container::before {
+    content: '';
+    display: block;
+    width: 1px;
+    height: 30px;
+    background-color: #eaedf3;
+    position: absolute;
+    top: 10px;
+    left: 50%;
+}

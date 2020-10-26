@@ -1,0 +1,29 @@
+.card-description__button {
+    display: block;
+    width: 183px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: #841eb6;
+    border: none;
+    margin-top: 41px;
+    padding: 0;
+    color: #ffffff;
+    font-family: 'Gilroy-Regular';
+    font-size: 16px;
+    font-weight: 500;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    text-align: center;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    cursor: pointer;
+    outline: none;
+    transition: background-color 0.3s, font-size 0.3s;
+}
+
+.card-description__button:hover {
+    background-color: rgba(255, 255, 255, 0);
+    font-size: 20px;
+}

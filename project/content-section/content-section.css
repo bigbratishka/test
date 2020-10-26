@@ -1,0 +1,7 @@
+.content-section {
+    border-radius: 10px;
+    border: 1px solid #eaedf3;
+    background-color: white;
+    overflow: hidden;
+    position: relative;
+}

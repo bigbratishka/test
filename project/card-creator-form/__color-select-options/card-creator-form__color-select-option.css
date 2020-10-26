@@ -1,0 +1,37 @@
+.card-creator-form__color-select-option {
+    cursor: pointer;
+    position: relative;
+}
+
+.card-creator-form__color-select-option::before {
+    content: '';
+    display: block;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    border: 1px solid #eaedf3;
+    border-radius: 50%;
+    left: -8px;
+    top: -5px;
+}
+
+.card-creator-form__color-select-option::after {
+    content: '';
+    display: block;
+    width: 10px;
+    height: 6px;
+    border-bottom: 4px solid #841eb6;
+    border-left: 4px solid #841eb6;
+    position: absolute;
+    border-radius: 2px;
+    top: 4px;
+    left: 1px;
+    transform: rotate(-45deg);
+    opacity: 0;
+    transition: opacity 0.2s ease;
+}
+
+.card-creator-form__color-select-option:checked::after {
+    opacity: 1;
+}

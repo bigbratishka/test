@@ -1,0 +1,23 @@
+.card-user__link {
+    width: 100px;
+    height: 100px;
+    text-decoration: none;
+    position: relative;
+    display: block;
+    margin: 80px auto 0 auto;
+}
+.card-user__link::after {
+    content: '';
+    display: block;
+    width: 16px;
+    height: 16px;
+    background-color: #841eb6;
+    border-radius: 50%;
+    position: absolute;
+    background-image: url('card-user__link.png');
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    border: 2px solid white;
+    top: 73px;
+    left: 80px;
+}

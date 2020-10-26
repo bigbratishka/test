@@ -1,0 +1,67 @@
+.card-result_black {
+    background-image: url('card-result_black.svg');
+    background-position: 0 0;
+    background-color: #16111b;
+}
+
+.card-result_black .card-result__image {
+    border: 1px solid white;
+}
+
+.card-result_black .card-result__username {
+    color: white;
+}
+
+.card-result_black .card-result__description {
+    color: white;
+}
+
+.card-result_black .card-result__heading {
+    color: white;
+}
+
+.card-result_black .card-result__socials-link {
+    background-color: white;
+}
+
+.card-result_black .card-result__button-save {
+    background-color: white;
+    color: black;
+}
+
+.card-result_black .card-result__button-change {
+    color: white;
+    border: 1px solid white;
+}
+
+.card-result_black .card-result__socials-link_tg {
+    background-image: url('../__socials-link/_tg/_black/socials__label_tg_black.svg');
+}
+
+.card-result_black .card-result__socials-link_ig {
+    background-image: url('../__socials-link/_ig/_black/socials__label_ig_black.svg');
+}
+
+.card-result_black .card-result__socials-link_vk {
+    background-image: url('../__socials-link/_vk/_black/socials__label_vk_black.svg');
+}
+
+.card-result_black .card-result__socials-link_wa {
+    background-image: url('../__socials-link/_wa/_black/socials__label_wa_black.svg');
+}
+
+.card-result_black .card-result__socials-link_tg.black-active {
+    background-image: url('../__socials-link/_tg/_active/socials__label_tg_active.svg');
+}
+
+.card-result_black .card-result__socials-link_ig.black-active {
+    background-image: url('../__socials-link/_ig/_active/socials__label_ig_active.svg');
+}
+
+.card-result_black .card-result__socials-link_vk.black-active {
+    background-image: url('../__socials-link/_vk/_active/socials__label_vk_active.svg');
+}
+
+.card-result_black .card-result__socials-link_wa.black-active {
+    background-image: url('../__socials-link/_wa/_active/socials__label_wa_active.svg');
+}

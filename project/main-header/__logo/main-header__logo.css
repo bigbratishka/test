@@ -1,0 +1,27 @@
+.main-header__logo {
+    position: relative;
+    padding: 0 32px 0 32px;
+    text-decoration: none;
+    margin-top: 20px;
+}
+
+.main-header__logo::after {
+    content: 'Рекрутинг';
+    width: 69px;
+    height: 7px;
+    color: #841eb6;;
+    font-family: 'Gilroy-Bold';
+    font-size: 10px;
+    font-weight: 500;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    text-align: left;
+    text-transform: uppercase;
+    font-style: normal;
+    letter-spacing: 2px;
+    line-height: normal;
+    position: absolute;
+    top: 5px;
+    left: 139px;
+}

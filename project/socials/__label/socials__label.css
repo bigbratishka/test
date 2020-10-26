@@ -1,0 +1,32 @@
+.socials__label {
+    display: block;
+    margin-bottom: 20px;
+    width: 520px;
+    height: 50px;
+    border-radius: 5px;
+    border: 1px solid #eaedf3;
+    padding: 0 0 0 89px;
+    position: relative;
+    transition: border 0.2s;
+}
+.socials__label::before {
+    content: '';
+    display: block;
+    position: absolute;
+    height: 50px;
+    width: 68px;
+    top: 0;
+    left: 0;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+}
+.socials__label::after {
+    content: '';
+    display: block;
+    position: absolute;
+    height: 30px;
+    width: 1px;
+    top: 10px;
+    left: 68px;
+    background-color: #eaedf3;
+}

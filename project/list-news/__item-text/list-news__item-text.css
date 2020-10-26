@@ -1,0 +1,16 @@
+.list-news__item-text {
+    margin: 0;
+    max-width: 740px;
+    color: #000000;
+    font-family: 'Gilroy-Regular';
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    text-align: left;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    margin-bottom: 29px;
+}

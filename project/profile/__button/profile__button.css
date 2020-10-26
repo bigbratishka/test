@@ -1,0 +1,15 @@
+.profile__button {
+    border: none;
+    font-family: 'Gilroy-Semibold';
+    background: none;
+    padding: 0;
+    margin-left: 10px;
+    cursor: pointer;
+    outline: none;
+}
+
+.profile__button::after {
+    content: '⏷';
+    position: relative;
+    left: 5px;
+}

@@ -1,0 +1,19 @@
+.referals__field {
+    flex: 1 1 auto;
+    border: none;
+    color: black;
+    padding: 19px 20px 18px 20px;
+    font-family: 'Gilroy-Regular';
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    text-align: left;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    outline: none;
+    text-overflow: ellipsis;
+    border-radius: 5px;
+}

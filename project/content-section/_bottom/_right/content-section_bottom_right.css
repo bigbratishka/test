@@ -1,0 +1,8 @@
+.content-section_bottom_right {
+    max-width: 940px;
+    min-width: 575px;
+    height: 300px;
+    flex: 1 0 auto;
+    margin-left: 20px;
+    margin-top: 19px;
+}

@@ -1,0 +1,13 @@
+.main-header__profile {
+    margin-right: 35px;
+    margin-left: 90px;
+}
+.main-header__profile::before {
+    content: '';
+    display: block;
+    height: 50px;
+    width: 1px;
+    background-color: #eaedf3;
+    position: relative;
+    left: -50px;
+}
